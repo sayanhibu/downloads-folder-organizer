@@ -21,3 +21,15 @@ python3 organizer.py
 ```bash
 python3 -m unittest test_organizer.py
 ```
+
+## What I learned
+
+- Writing and calling Python functions
+- Using loops and dictionaries
+- Working with folder paths and files
+- Writing basic tests with unittest
+- Understanding how to integrate different files
+
+## Safety
+
+Please try the organizer on a folder of sample files first. It moves files after you confirm, so do NOT test it on your real Downloads folder until you're comfortable with how it works. 
